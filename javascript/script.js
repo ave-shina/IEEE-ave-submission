@@ -64,6 +64,8 @@ const portofolio = document.querySelector(".portofolio");
 document.getElementById("home").addEventListener("click", highlight1);
 document.getElementById("about-me").addEventListener("click", highlight2);
 document.getElementById("portofolio").addEventListener("click", highlight3);
+document.querySelector(".landing-button").addEventListener("click", highlight2);
+document.querySelector(".logo").addEventListener("click", highlight1);
 
 function highlight1() {
   home_page.style.display = "block";
