@@ -1,0 +1,62 @@
+<svg width="100%" height="100%" viewBox="0 0 437 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="437" height="600">
+<rect width="437" height="600" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="154" y="288" width="143" height="145">
+<rect x="154" y="288" width="143" height="145" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask1)">
+<circle cx="296.676" cy="431.676" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="297.324" cy="288.973" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="153.324" cy="288.973" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="153.324" cy="432.324" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="225.324" cy="359.676" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="225.324" cy="503.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+</g>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="149" y="1" width="288" height="287">
+<rect x="149" y="1" width="288" height="286.703" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask2)">
+<circle cx="292.676" cy="144.676" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="365.324" cy="73.3244" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="436.676" cy="1.97298" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="436.676" cy="144.676" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="436.676" cy="288.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="293.324" cy="1.97298" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="149.324" cy="1.97295" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="149.324" cy="145.324" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="149.324" cy="288.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="293.324" cy="288.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="221.324" cy="72.6757" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="365.324" cy="216.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="221.324" cy="216.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+</g>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="297" y="288" width="288" height="287">
+<rect x="297" y="288" width="288" height="286.703" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask3)">
+<circle cx="440.676" cy="431.676" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="441.324" cy="288.973" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="297.324" cy="288.973" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="297.324" cy="432.324" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="297.324" cy="575.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="441.324" cy="575.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="369.324" cy="359.676" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="369.324" cy="503.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+</g>
+<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="1" width="146" height="145">
+<rect x="3" y="1" width="146" height="145" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask4)">
+<circle cx="146.676" cy="144.676" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="219.324" cy="73.3244" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="147.324" cy="1.97298" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="3.32436" cy="1.97295" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="3.32436" cy="145.324" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="75.3244" cy="72.6757" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="219.324" cy="216.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="75.3244" cy="216.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+</g>
+</g>
+</svg>

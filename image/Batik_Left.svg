@@ -1,0 +1,49 @@
+<svg width="100%" height="100%" viewBox="0 0 572 233" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="572" height="233">
+<rect width="572" height="233" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="144" y="1" width="288" height="288">
+<rect x="144" y="1.64417" width="288" height="286.703" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask1)">
+<circle cx="287.676" cy="145.32" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="360.324" cy="73.9685" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="431.676" cy="2.61708" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="431.676" cy="145.32" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="431.676" cy="288.671" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="288.324" cy="2.61708" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="144.324" cy="2.61708" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="144.324" cy="145.969" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="144.324" cy="288.671" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="288.324" cy="288.671" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="216.324" cy="73.3198" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="360.324" cy="216.671" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="216.324" cy="216.671" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+</g>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="-144" y="1" width="288" height="287">
+<rect x="-144" y="1" width="288" height="286.703" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask2)">
+<circle cx="-0.324326" cy="144.676" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="72.3243" cy="73.3243" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="143.676" cy="1.97292" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="143.676" cy="144.676" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="143.676" cy="288.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="0.324356" cy="1.97292" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="0.324356" cy="288.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="72.3243" cy="216.027" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+</g>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="427" y="144" width="146" height="146">
+<rect x="427" y="144.644" width="146" height="145" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask3)">
+<circle cx="570.676" cy="288.32" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="643.324" cy="216.969" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="571.324" cy="145.617" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="427.324" cy="145.617" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="427.324" cy="288.969" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+<circle cx="499.324" cy="216.32" r="70.1757" stroke="#FAEED9" stroke-width="3"/>
+</g>
+</g>
+</svg>
